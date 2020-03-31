@@ -1,3 +1,5 @@
+# Last used
+# python addFiles_Hplus.py <dir>
 #!/usr/bin/env python
 
 import commands
