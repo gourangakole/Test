@@ -1,4 +1,5 @@
 # https://raw.githubusercontent.com/menglu21/GEN_staff/2bad2a4a8071e8ca52816d95481f21156c0fb8d4/GenValidation_PlotCode/histo.py
+# https://github.com/HephyAnalysisSW/TTGammaEFT/blob/2b69c1bf271c541bf361328cdc2424ff52065294/plots/plotsLukas/summary/getDifferentialTheoryError.py#L62-L69
 # Last used
 # python TTC_GenWeight.py -i /afs/cern.ch/user/g/gkole/work/TTC/NanoGEN/CMSSW_10_6_29/src/TOP-RunIISummer20UL17GEN-00004.root -o output_TTC
 ##########
